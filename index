@@ -10,8 +10,8 @@
     <script>
       const PHOEBE_DATA = {
             LIFF_ID: "2009380379-UaPGhiRb",
-            BASE_URL: "https://joannahsu0327-maker.github.io/phoebe-card/",
-            IMG_MAIN: "PHOEBE_IMAGE.jpg",
+            BASE_URL: "https://joannahsu0327-maker.github.io/alin-card/",
+            IMG_MAIN: "ALIN_IMAGE.jpg",
             IMG_INTRO: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?auto=format&fit=crop&q=80&w=1000",
             name: "張宇溱(Phoebe)",
             title: "家庭保障 | 財富傳承",
